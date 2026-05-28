@@ -27,21 +27,27 @@ I focus on converting biological problems into computational formulations, with 
 | [7] | [egps-mutationPre](https://github.com/yudalang3/egps-mutationPre) | The genomic mutation presenter module of eGPS 2.1 |
 | [8] | [egps-sanky-venn](https://github.com/yudalang3/egps-sanky-venn) | The sanky plot module of eGPS 2.1 software platform |
 
+### Genome Browser
+
+| # | Project | Description |
+|---|---------|-------------|
+| [9] | [egps-genome.browser](https://github.com/yudalang3/egps-genome.browser) | A genome browser cloned from IGV and modified for eGPS |
+
 ### Analysis Tools
 
 | # | Project | Description |
 |---|---------|-------------|
-| [9] | [egps-SeqTools](https://github.com/yudalang3/egps-SeqTools) | The sequences tools for biologists (SeqTools), modules of eGPS 2.1 |
-| [10] | [egps-pathway.evol.browser](https://github.com/yudalang3/egps-pathway.evol.browser) | Biological pathway evolution across the animal phylum |
-| [11] | [egps-oneBuilder](https://github.com/yudalang3/egps-oneBuilder) | Linux phylogenetic workflow for protein and DNA/CDS |
-| [12] | [egps-million_evoltree](https://github.com/yudalang3/egps-million_evoltree) | Tree builder optimized for millions of OTUs using multi-threading |
+| [10] | [egps-SeqTools](https://github.com/yudalang3/egps-SeqTools) | The sequences tools for biologists (SeqTools), modules of eGPS 2.1 |
+| [11] | [egps-pathway.evol.browser](https://github.com/yudalang3/egps-pathway.evol.browser) | Biological pathway evolution across the animal phylum |
+| [12] | [egps-oneBuilder](https://github.com/yudalang3/egps-oneBuilder) | Linux phylogenetic workflow for protein and DNA/CDS |
+| [13] | [egps-million_evoltree](https://github.com/yudalang3/egps-million_evoltree) | Tree builder optimized for millions of OTUs using multi-threading |
 
 ### Language Bindings
 
 | # | Project | Description |
 |---|---------|-------------|
-| [13] | [Py4eGPS](https://github.com/yudalang3/Py4eGPS) | The Python version library to adapt the power of the eGPS bioinformatic platform |
-| [14] | [R4eGPS](https://github.com/yudalang3/R4eGPS) | The R package of the eGPS 2.0 |
+| [14] | [Py4eGPS](https://github.com/yudalang3/Py4eGPS) | The Python version library to adapt the power of the eGPS bioinformatic platform |
+| [15] | [R4eGPS](https://github.com/yudalang3/R4eGPS) | The R package of the eGPS 2.0 |
 
 ---
 
@@ -49,11 +55,11 @@ I focus on converting biological problems into computational formulations, with 
 
 | # | Project | Description |
 |---|---------|-------------|
-| [15] | [resolveS](https://github.com/yudalang3/resolveS) | A super-fast, memory-efficient tool for RNA-Seq strand specificity |
-| [16] | [ty](https://github.com/yudalang3/ty) | Personal R utils functions |
-| [17] | [pubmed_spider](https://github.com/yudalang3/pubmed_spider) | Spider program for downloading article text from PubMed and PMC |
-| [18] | [ete](https://github.com/yudalang3/ete) | Python package for building and visualising trees (fork) |
-| [19] | [PathwayI](https://github.com/yudalang3/PathwayI) | - |
+| [16] | [resolveS](https://github.com/yudalang3/resolveS) | A super-fast, memory-efficient tool for RNA-Seq strand specificity |
+| [17] | [ty](https://github.com/yudalang3/ty) | Personal R utils functions |
+| [18] | [pubmed_spider](https://github.com/yudalang3/pubmed_spider) | Spider program for downloading article text from PubMed and PMC |
+| [19] | [ete](https://github.com/yudalang3/ete) | Python package for building and visualising trees (fork) |
+| [20] | [PathwayI](https://github.com/yudalang3/PathwayI) | - |
 
 ---
 
